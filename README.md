@@ -44,6 +44,8 @@
 ## Main Public Links
 
 * GitHub: https://github.com/samwise1776
+* Portfolio: https://samwise1776.github.io/
+* Developer profile: https://samwise1776.github.io/about/
 * Software hub: https://samwise1776.github.io/apps/
 * FortranOmni: https://samwise1776.github.io/FortranOmni/
 * FortranOmni source: https://github.com/samwise1776/FortranOmni

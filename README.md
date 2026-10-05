@@ -1,3 +1,21 @@
+# samwise1776 — Software
+
+I build desktop apps, programming languages, developer tools, web projects, games, and software experiments.
+
+### 🚀 Start here
+
+**[Open the Software Hub →](https://samwise1776.github.io/apps/)**
+
+| Project | What it is | Try it |
+| --- | --- | --- |
+| **Lumi** | Java-built programming language with a built-in IDE and GUI support | [Downloads](https://github.com/samwise1776/Lumi/releases/latest) |
+| **Desktopcraft** | 2,500 guided desktop-development lessons with challenges, quizzes and a desktop edition | [Try online](https://samwise1776.github.io/desktopcraft/) |
+| **Multip** | Unified programming-language experiment for apps, websites and backends | [Repository](https://github.com/samwise1776/multip) |
+
+**Want everything else?** The [Software Hub](https://samwise1776.github.io/apps/) is the main catalog, with downloads and source links.
+
+---
+
 # About samwise1776
 
 ## Identity
